@@ -1,2 +1,2 @@
-# DevOps
-To learn about DevOps
+# Master
+This is Master branch readme file.
